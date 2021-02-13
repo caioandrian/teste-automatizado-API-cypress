@@ -5,5 +5,14 @@
 Ferramenta utilizada: Cypress versão 6.4.0
 <br><br>
 
-<b>Página</b>:<br>
+<b>Página</b>:<br><br>
 - https://restful-booker.herokuapp.com/apidoc/
+
+<b>Urls que foram testadas</b>:<br><br>
+- criar um novo livro<br>
+- listar id de todos os livros cadastrados<br>
+- buscar id dos livros por firstname e lastname<br>
+- buscar id dos livros por data checkin e checkout<br>
+- buscar informações de um livro por id<br>
+- atualizar um livro por id<br>
+- excluir um livro por id<br>
