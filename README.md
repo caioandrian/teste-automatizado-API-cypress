@@ -1,6 +1,6 @@
 # teste-automatizado-API
 
-<b>Projeto realizado para testar uma API</b>
+<b>Projeto criado para realizar um teste de API.</b>
 <br><br>
 Ferramenta utilizada: Cypress versão 6.4.0
 <br><br>
